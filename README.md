@@ -32,6 +32,18 @@ My current focus:
 
 ---
 
+## Current Direction
+
+I am building an enterprise AI implementation framework that helps organizations turn business workflows into agent collaboration, knowledge systems, automation tools, and verification governance, so AI can evolve from isolated tools into sustainable productivity systems.
+
+我致力于构建面向企业的 AI 落地体系，帮助组织将业务流程转化为智能体协作、知识库、自动化工具和验证治理机制，让 AI 从单点工具升级为可持续运行的生产力系统。
+
+This is one of my current directions, alongside local AI infrastructure, AI delivery governance, and domain-specific audit systems.
+
+这是我当前方向之一，同时我也在持续探索本地 AI 基础设施、AI 交付治理和行业审计系统。
+
+---
+
 ## Current Projects
 
 ### AI Delivery Warden
@@ -140,4 +152,3 @@ I am slowly building a personal open-source shelf around:
 - bilingual open-source documentation
 
 我正在慢慢搭建自己的开源作品架：AI 交付治理、本地 AI 基础设施、行业审计系统、实用 Agent 工作流，以及中英文开源文档。
-
