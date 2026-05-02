@@ -46,6 +46,24 @@ This is one of my current directions, alongside local AI infrastructure, AI deli
 
 ## Current Projects
 
+### Enterprise AI Implementation Framework
+
+[![Repo](https://img.shields.io/badge/GitHub-enterprise--ai--implementation--framework-black?logo=github)](https://github.com/miaoxin1979/enterprise-ai-implementation-framework)
+
+An open framework for turning business workflows into agent collaboration, knowledge systems, automation tools, and verification governance.
+
+一个面向企业 AI 落地的开源实施框架，帮助把业务流程转化为智能体协作、知识库、自动化工具和验证治理机制。
+
+It includes:
+
+- AI readiness assessment
+- workflow-to-agent mapping
+- verification governance checklist
+- implementation handoff template
+- 90-day AI pilot playbook
+
+---
+
 ### AI Delivery Warden
 
 [![Repo](https://img.shields.io/badge/GitHub-ai--delivery--warden-black?logo=github)](https://github.com/miaoxin1979/ai-delivery-warden)
@@ -145,10 +163,11 @@ I believe future AI systems need more than prompts. They need:
 
 I am slowly building a personal open-source shelf around:
 
+- enterprise AI implementation frameworks
 - AI delivery governance
 - local AI infrastructure
 - domain-specific audit systems
 - practical agent workflows
 - bilingual open-source documentation
 
-我正在慢慢搭建自己的开源作品架：AI 交付治理、本地 AI 基础设施、行业审计系统、实用 Agent 工作流，以及中英文开源文档。
+我正在慢慢搭建自己的开源作品架：企业 AI 落地框架、AI 交付治理、本地 AI 基础设施、行业审计系统、实用 Agent 工作流，以及中英文开源文档。
