@@ -147,14 +147,21 @@ I believe future AI systems need more than prompts. They need:
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miaoxin1979&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaoxin1979&layout=compact&theme=tokyonight" alt="Top languages" />
+  <a href="https://github.com/miaoxin1979?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-181717?logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+  <a href="https://github.com/miaoxin1979?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-Curated%20AI%20stack-0F766E?logo=github&logoColor=white" alt="Curated stars" />
+  </a>
+  <a href="https://github.com/miaoxin1979/enterprise-ai-implementation-framework">
+    <img src="https://img.shields.io/badge/Enterprise%20AI-Implementation%20Framework-2563EB?logo=github&logoColor=white" alt="Enterprise AI implementation framework" />
+  </a>
+  <a href="https://github.com/miaoxin1979/ai-delivery-warden">
+    <img src="https://img.shields.io/badge/AI%20Delivery-Warden-7C3AED?logo=github&logoColor=white" alt="AI Delivery Warden" />
+  </a>
 </p>
 
 ---
