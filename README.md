@@ -46,6 +46,23 @@ This is one of my current directions, alongside local AI infrastructure, AI deli
 
 ## Current Projects
 
+### AI Delivery OS
+
+[![Repo](https://img.shields.io/badge/GitHub-ai--delivery--os-black?logo=github)](https://github.com/miaoxin1979/ai-delivery-os)
+
+A practical framework for building verifiable, governable, handoff-ready AI delivery systems.
+
+**AI 交付操作系统**：一套让 AI 从可验证、可治理、可交接、可持续交付的方法论。
+
+Core layers:
+
+- Anti-bullshit delivery protocol
+- Three-layer LLM-Wiki knowledge system
+- Agent learning & handoff pipeline
+- Enterprise implementation patterns
+
+---
+
 ### Enterprise AI Implementation Framework
 
 [![Repo](https://img.shields.io/badge/GitHub-enterprise--ai--implementation--framework-black?logo=github)](https://github.com/miaoxin1979/enterprise-ai-implementation-framework)
@@ -54,7 +71,7 @@ An open framework for turning business workflows into agent collaboration, knowl
 
 一个面向企业 AI 落地的开源实施框架，帮助把业务流程转化为智能体协作、知识库、自动化工具和验证治理机制。
 
-It includes:
+Includes:
 
 - AI readiness assessment
 - workflow-to-agent mapping
@@ -156,6 +173,9 @@ I believe future AI systems need more than prompts. They need:
   <a href="https://github.com/miaoxin1979?tab=stars">
     <img src="https://img.shields.io/badge/Stars-Curated%20AI%20stack-0F766E?logo=github&logoColor=white" alt="Curated stars" />
   </a>
+  <a href="https://github.com/miaoxin1979/ai-delivery-os">
+    <img src="https://img.shields.io/badge/AI%20Delivery-OS-0F172A?logo=github&logoColor=white" alt="AI Delivery OS" />
+  </a>
   <a href="https://github.com/miaoxin1979/enterprise-ai-implementation-framework">
     <img src="https://img.shields.io/badge/Enterprise%20AI-Implementation%20Framework-2563EB?logo=github&logoColor=white" alt="Enterprise AI implementation framework" />
   </a>
@@ -168,13 +188,14 @@ I believe future AI systems need more than prompts. They need:
 
 ## Open Source Direction
 
-I am slowly building a personal open-source shelf around:
+I am building a personal open-source shelf around:
 
+- **AI Delivery OS** — verifiable, governable, handoff-ready AI delivery methodology
 - enterprise AI implementation frameworks
-- AI delivery governance
+- AI delivery governance & verification
 - local AI infrastructure
 - domain-specific audit systems
 - practical agent workflows
 - bilingual open-source documentation
 
-我正在慢慢搭建自己的开源作品架：企业 AI 落地框架、AI 交付治理、本地 AI 基础设施、行业审计系统、实用 Agent 工作流，以及中英文开源文档。
+我正在搭建自己的开源作品架：AI 交付操作系统、企业 AI 落地框架、AI 交付治理与验证、本地 AI 基础设施、行业审计系统、实用 Agent 工作流，以及中英文开源文档。
